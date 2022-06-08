@@ -6,7 +6,7 @@ console.log(`Пpивет ${name} я рад познакомится с тобо�
 
 const tuple = [12, 321, 32, 432, 23]
 const tuple2 = [12, 12, 12, 12, 12, 12, 12,]
-console.log((function(tuple,tuple2){}).length);
+//console.log((function(tuple,tuple2){}).length);
 
 if (tuple >= tuple2) {
     console.log(`${tuple} больше ${tuple2}`)

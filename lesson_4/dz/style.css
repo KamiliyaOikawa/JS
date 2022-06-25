@@ -1,0 +1,19 @@
+.color {
+    background-color: aqua;
+    height: 100vh;
+}
+
+body {
+    margin: 0;
+}
+
+.but {
+    /*width: 100vh;*/
+    height: 200px;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    border: 0;
+    margin: 20px 30px;
+}
